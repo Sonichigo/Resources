@@ -23,9 +23,12 @@
     <p>Organizations join LF projects because they want to take an active role in supporting the growth and evolution of open technologies</p>
 
 ### Fellowship
-- Battlesnake - https://fellowship.battlesnake.com/
-- Processing Foundation - https://processingfoundation.org/fellowships
-- MLH - https://fellowship.mlh.io/programs/explorer
+- [Battlesnake](https://fellowship.battlesnake.com/)
+    <p>The RBC & Battlesnake Developer Fellowship is an exciting new initiative aimed at recognizing and supporting women, female-identifying and non-binary developers in launching the next stage of their Battlesnake journey.</p>
+- [Processing Foundation](https://processingfoundation.org/fellowships)
+    <p> The Processing Foundation Fellowships support artists, coders, and collectives in visionary projects that conceive a new direction for what Processing as a software and a community can do. Fellowships emphasize projects that expand Processing and its affiliated projects, as well as the evolution of a Fellow’s practice. Work done by Fellows is supported through funding and mentorship from The Processing Foundation.</p>
+- [MLH](https://fellowship.mlh.io/programs/explorer)
+    <p>The MLH Pre-Fellowship is a 4-week fellowship preparation program for aspiring technologists. You'll build out your portfolio of personal projects & experiment with new technologies by collaborating in small groups through a short hackathon sprint. </p>
 
 ## Extras
 
